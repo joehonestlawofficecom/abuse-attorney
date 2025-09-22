@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://abuse-attorney.com/sitemap.xml
